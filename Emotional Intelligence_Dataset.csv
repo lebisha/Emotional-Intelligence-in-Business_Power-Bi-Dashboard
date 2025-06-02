@@ -1,0 +1,501 @@
+ID,Mobile_Name,Reviews,Rating
+1,Samsung,"Great performance, good camera, but the battery could be better.",4.9
+2,Samsung,"I have been using this for a while, and it has not disappointed.",4.1
+3,OnePlus,"Sleek design, but the camera is not as good as expected.",4.6
+4,OnePlus,"Sleek design, but the camera is not as good as expected.",4.9
+5,OnePlus,"Affordable and reliable, but lacks some premium features.",4.4
+6,Samsung,Impressive camera quality and smooth user experience.,4.9
+7,OnePlus,"Affordable and reliable, but lacks some premium features.",3.7
+8,Samsung,"Great performance, good camera, but the battery could be better.",4.6
+9,Samsung,"Great performance, good camera, but the battery could be better.",4.4
+10,iPhone,Battery drains quickly when using apps for extended periods.,5
+11,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.5
+12,OnePlus,"Affordable and reliable, but lacks some premium features.",4.4
+13,Samsung,"I have been using this for a while, and it has not disappointed.",4.7
+14,iPhone,"Decent phone, but it lags a little when switching apps.",4.1
+15,Samsung,"I have been using this for a while, and it has not disappointed.",4.2
+16,Samsung,"I have been using this for a while, and it has not disappointed.",3.7
+17,iPhone,"Good value for money, however, the build quality is not premium.",4.1
+18,OnePlus,"Value for money, but the software could use some improvements.",4.3
+19,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.3
+20,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.2
+21,Samsung,"I have been using this for a while, and it has not disappointed.",3.7
+22,iPhone,Battery drains quickly when using apps for extended periods.,4.1
+23,iPhone,Battery drains quickly when using apps for extended periods.,4.4
+24,iPhone,"Good value for money, however, the build quality is not premium.",4.5
+25,iPhone,"Amazing battery life, but the display could be brighter.",3.5
+26,iPhone,"Great phone overall, but the price is a little too high.",4.9
+27,Samsung,"Great performance, good camera, but the battery could be better.",4.9
+28,iPhone,"Good value for money, however, the build quality is not premium.",4.1
+29,iPhone,"Good value for money, however, the build quality is not premium.",3.6
+30,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.7
+31,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.7
+32,iPhone,"Decent phone, but it lags a little when switching apps.",4.7
+33,OnePlus,"Affordable and reliable, but lacks some premium features.",3.6
+34,Samsung,"I have been using this for a while, and it has not disappointed.",3.9
+35,Samsung,Impressive camera quality and smooth user experience.,3.6
+36,iPhone,"Good value for money, however, the build quality is not premium.",4.7
+37,OnePlus,"The phone is good for basic tasks, but not for gaming.",4
+38,Samsung,"Amazing features, especially the camera and display.",5
+39,Samsung,"Fast charging and decent performance, I love it.",4
+40,Samsung,"Fast charging and decent performance, I love it.",4.7
+41,Samsung,"Fast charging and decent performance, I love it.",4.4
+42,Samsung,Impressive camera quality and smooth user experience.,4.9
+43,OnePlus,"Value for money, but the software could use some improvements.",5
+44,iPhone,Battery drains quickly when using apps for extended periods.,4.4
+45,OnePlus,"Affordable and reliable, but lacks some premium features.",4.9
+46,OnePlus,"Value for money, but the software could use some improvements.",4.1
+47,Samsung,"Fast charging and decent performance, I love it.",4.1
+48,OnePlus,"Sleek design, but the camera is not as good as expected.",3.8
+49,OnePlus,"Affordable and reliable, but lacks some premium features.",4.3
+50,Samsung,"Fast charging and decent performance, I love it.",4.9
+51,OnePlus,"Affordable and reliable, but lacks some premium features.",4.7
+52,Samsung,"Fast charging and decent performance, I love it.",4
+53,Samsung,"Great performance, good camera, but the battery could be better.",4.6
+54,OnePlus,"Good phone, but it heats up when gaming for too long.",3.5
+55,Samsung,Impressive camera quality and smooth user experience.,4.7
+56,Samsung,Impressive camera quality and smooth user experience.,3.8
+57,iPhone,"Amazing battery life, but the display could be brighter.",4.2
+58,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.6
+59,Samsung,"Fast charging and decent performance, I love it.",4.2
+60,Samsung,"Fast charging and decent performance, I love it.",4.9
+61,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.9
+62,iPhone,Battery drains quickly when using apps for extended periods.,4.7
+63,Samsung,"Very fast and responsive, excellent display.",4.2
+64,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.3
+65,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+66,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.3
+67,Samsung,"Great performance, good camera, but the battery could be better.",3.9
+68,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.1
+69,Samsung,"Amazing features, especially the camera and display.",4.5
+70,Samsung,"Amazing features, especially the camera and display.",3.6
+71,iPhone,Battery drains quickly when using apps for extended periods.,3.7
+72,iPhone,"Good value for money, however, the build quality is not premium.",4
+73,OnePlus,"Affordable and reliable, but lacks some premium features.",3.8
+74,Samsung,"Very fast and responsive, excellent display.",4.5
+75,iPhone,"Amazing battery life, but the display could be brighter.",4
+76,iPhone,"Decent phone, but it lags a little when switching apps.",4.9
+77,Samsung,"Amazing features, especially the camera and display.",4.7
+78,Samsung,Impressive camera quality and smooth user experience.,3.7
+79,iPhone,"Great phone overall, but the price is a little too high.",3.7
+80,iPhone,"Decent phone, but it lags a little when switching apps.",3.9
+81,Samsung,"Great performance, good camera, but the battery could be better.",4.1
+82,iPhone,"Great phone overall, but the price is a little too high.",4.7
+83,Samsung,"Great performance, good camera, but the battery could be better.",4.9
+84,iPhone,"Camera quality is top-notch, but the storage could be higher.",4
+85,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.6
+86,OnePlus,"Good phone, but it heats up when gaming for too long.",4.7
+87,iPhone,Battery drains quickly when using apps for extended periods.,4.4
+88,OnePlus,"Good phone, but it heats up when gaming for too long.",4.9
+89,iPhone,"Good value for money, however, the build quality is not premium.",3.8
+90,OnePlus,"Affordable and reliable, but lacks some premium features.",4.9
+91,OnePlus,"Good phone, but it heats up when gaming for too long.",3.9
+92,Samsung,"Amazing features, especially the camera and display.",3.6
+93,Samsung,"Great performance, good camera, but the battery could be better.",5
+94,Samsung,"Amazing features, especially the camera and display.",3.6
+95,Samsung,"Fast charging and decent performance, I love it.",4.5
+96,Samsung,"Very fast and responsive, excellent display.",4.2
+97,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+98,Samsung,"Fast charging and decent performance, I love it.",3.8
+99,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.2
+100,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.8
+101,iPhone,"Good value for money, however, the build quality is not premium.",4.5
+102,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.2
+103,iPhone,Battery drains quickly when using apps for extended periods.,3.6
+104,OnePlus,"Affordable and reliable, but lacks some premium features.",4.5
+105,Samsung,"Great performance, good camera, but the battery could be better.",4.9
+106,Samsung,"Very fast and responsive, excellent display.",4
+107,iPhone,"Great phone overall, but the price is a little too high.",4.1
+108,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.8
+109,iPhone,Battery drains quickly when using apps for extended periods.,4
+110,OnePlus,"Sleek design, but the camera is not as good as expected.",3.5
+111,iPhone,"Decent phone, but it lags a little when switching apps.",4.4
+112,Samsung,"Fast charging and decent performance, I love it.",4.3
+113,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.7
+114,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.8
+115,OnePlus,"Affordable and reliable, but lacks some premium features.",4.6
+116,Samsung,"Very fast and responsive, excellent display.",4.1
+117,OnePlus,"Sleek design, but the camera is not as good as expected.",4.3
+118,OnePlus,"Value for money, but the software could use some improvements.",4.9
+119,OnePlus,"Good phone, but it heats up when gaming for too long.",5
+120,Samsung,Impressive camera quality and smooth user experience.,3.5
+121,Samsung,"Amazing features, especially the camera and display.",4.8
+122,OnePlus,"Sleek design, but the camera is not as good as expected.",3.8
+123,Samsung,"Fast charging and decent performance, I love it.",4.4
+124,Samsung,"Amazing features, especially the camera and display.",3.5
+125,Samsung,Impressive camera quality and smooth user experience.,4.7
+126,OnePlus,"Affordable and reliable, but lacks some premium features.",4.1
+127,Samsung,"Amazing features, especially the camera and display.",4
+128,Samsung,"I have been using this for a while, and it has not disappointed.",4
+129,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.2
+130,iPhone,"Good value for money, however, the build quality is not premium.",4
+131,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.2
+132,Samsung,"Very fast and responsive, excellent display.",3.7
+133,iPhone,"Amazing battery life, but the display could be brighter.",4
+134,iPhone,"Amazing battery life, but the display could be brighter.",4.4
+135,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+136,Samsung,"Amazing features, especially the camera and display.",3.8
+137,Samsung,"Great performance, good camera, but the battery could be better.",3.7
+138,Samsung,"I have been using this for a while, and it has not disappointed.",3.7
+139,Samsung,"Very fast and responsive, excellent display.",3.7
+140,Samsung,"I have been using this for a while, and it has not disappointed.",4.6
+141,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.7
+142,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.9
+143,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.6
+144,Samsung,"Very fast and responsive, excellent display.",4.5
+145,Samsung,"Amazing features, especially the camera and display.",3.9
+146,iPhone,"Amazing battery life, but the display could be brighter.",3.8
+147,OnePlus,"Value for money, but the software could use some improvements.",3.6
+148,OnePlus,"Value for money, but the software could use some improvements.",4.3
+149,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.1
+150,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.9
+151,OnePlus,"Good phone, but it heats up when gaming for too long.",3.8
+152,iPhone,"Good value for money, however, the build quality is not premium.",4.7
+153,iPhone,"Amazing battery life, but the display could be brighter.",4.5
+154,Samsung,"Great performance, good camera, but the battery could be better.",3.8
+155,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.6
+156,OnePlus,"Good phone, but it heats up when gaming for too long.",4.5
+157,Samsung,"I have been using this for a while, and it has not disappointed.",4.8
+158,iPhone,"Decent phone, but it lags a little when switching apps.",4.5
+159,iPhone,"Amazing battery life, but the display could be brighter.",4.9
+160,Samsung,"Fast charging and decent performance, I love it.",4.6
+161,Samsung,"Amazing features, especially the camera and display.",4.2
+162,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.5
+163,Samsung,"I have been using this for a while, and it has not disappointed.",4.1
+164,Samsung,"I have been using this for a while, and it has not disappointed.",4.3
+165,OnePlus,"Affordable and reliable, but lacks some premium features.",4.6
+166,Samsung,Impressive camera quality and smooth user experience.,4.4
+167,OnePlus,"Affordable and reliable, but lacks some premium features.",4.9
+168,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.8
+169,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.4
+170,OnePlus,"Sleek design, but the camera is not as good as expected.",3.7
+171,Samsung,"I have been using this for a while, and it has not disappointed.",3.9
+172,Samsung,"Great performance, good camera, but the battery could be better.",4.7
+173,iPhone,"Good value for money, however, the build quality is not premium.",3.7
+174,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+175,OnePlus,"Good phone, but it heats up when gaming for too long.",4.3
+176,iPhone,"Great phone overall, but the price is a little too high.",4.2
+177,iPhone,"Decent phone, but it lags a little when switching apps.",4.1
+178,Samsung,"Great performance, good camera, but the battery could be better.",4.6
+179,Samsung,"Great performance, good camera, but the battery could be better.",4.6
+180,OnePlus,"Affordable and reliable, but lacks some premium features.",4.7
+181,OnePlus,"Affordable and reliable, but lacks some premium features.",3.6
+182,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.4
+183,Samsung,"I have been using this for a while, and it has not disappointed.",4.1
+184,Samsung,"Very fast and responsive, excellent display.",5
+185,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.6
+186,Samsung,"Amazing features, especially the camera and display.",3.8
+187,Samsung,"Fast charging and decent performance, I love it.",3.7
+188,iPhone,"Decent phone, but it lags a little when switching apps.",4.4
+189,OnePlus,"Sleek design, but the camera is not as good as expected.",4.9
+190,iPhone,"Amazing battery life, but the display could be brighter.",4.7
+191,iPhone,"Great phone overall, but the price is a little too high.",3.5
+192,OnePlus,"Affordable and reliable, but lacks some premium features.",3.9
+193,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.5
+194,OnePlus,"Good phone, but it heats up when gaming for too long.",4.5
+195,Samsung,"Very fast and responsive, excellent display.",3.9
+196,Samsung,"Very fast and responsive, excellent display.",4.7
+197,iPhone,"Great phone overall, but the price is a little too high.",4.6
+198,OnePlus,"Sleek design, but the camera is not as good as expected.",3.8
+199,OnePlus,"Affordable and reliable, but lacks some premium features.",3.7
+200,OnePlus,"The phone is good for basic tasks, but not for gaming.",4
+201,Samsung,"Amazing features, especially the camera and display.",3.7
+202,Samsung,"Very fast and responsive, excellent display.",3.6
+203,iPhone,"Decent phone, but it lags a little when switching apps.",4.8
+204,Samsung,"I have been using this for a while, and it has not disappointed.",4.9
+205,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.4
+206,OnePlus,It's fine for everyday use but doesn't excel in any area.,4
+207,iPhone,"Great phone overall, but the price is a little too high.",4.9
+208,iPhone,"Amazing battery life, but the display could be brighter.",4.4
+209,iPhone,Battery drains quickly when using apps for extended periods.,3.6
+210,OnePlus,"Affordable and reliable, but lacks some premium features.",4.6
+211,iPhone,"Good value for money, however, the build quality is not premium.",4.3
+212,Samsung,"Fast charging and decent performance, I love it.",4.5
+213,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.1
+214,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+215,Samsung,"Fast charging and decent performance, I love it.",3.5
+216,iPhone,"Good value for money, however, the build quality is not premium.",3.6
+217,iPhone,"Decent phone, but it lags a little when switching apps.",3.6
+218,Samsung,Impressive camera quality and smooth user experience.,3.7
+219,Samsung,"Fast charging and decent performance, I love it.",4.4
+220,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.9
+221,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.7
+222,OnePlus,"Affordable and reliable, but lacks some premium features.",4.9
+223,iPhone,"Good value for money, however, the build quality is not premium.",4.7
+224,OnePlus,"Good phone, but it heats up when gaming for too long.",4.1
+225,iPhone,"Decent phone, but it lags a little when switching apps.",4.2
+226,Samsung,"I have been using this for a while, and it has not disappointed.",4
+227,Samsung,Impressive camera quality and smooth user experience.,4.8
+228,Samsung,"Great performance, good camera, but the battery could be better.",3.5
+229,OnePlus,"Good phone, but it heats up when gaming for too long.",3.5
+230,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.7
+231,iPhone,"Great phone overall, but the price is a little too high.",3.6
+232,iPhone,"Great phone overall, but the price is a little too high.",3.8
+233,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+234,OnePlus,"Good phone, but it heats up when gaming for too long.",4.2
+235,Samsung,"Great performance, good camera, but the battery could be better.",4.9
+236,iPhone,"Great phone overall, but the price is a little too high.",4.1
+237,OnePlus,"Sleek design, but the camera is not as good as expected.",4.1
+238,Samsung,"Amazing features, especially the camera and display.",4.9
+239,Samsung,"I have been using this for a while, and it has not disappointed.",4.3
+240,Samsung,"I have been using this for a while, and it has not disappointed.",3.7
+241,OnePlus,"Sleek design, but the camera is not as good as expected.",5
+242,Samsung,Impressive camera quality and smooth user experience.,4.9
+243,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.1
+244,iPhone,"Decent phone, but it lags a little when switching apps.",3.9
+245,OnePlus,"Sleek design, but the camera is not as good as expected.",4.3
+246,Samsung,"Amazing features, especially the camera and display.",4.5
+247,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.6
+248,OnePlus,"Sleek design, but the camera is not as good as expected.",4.6
+249,iPhone,"Decent phone, but it lags a little when switching apps.",3.9
+250,Samsung,"Amazing features, especially the camera and display.",4.9
+251,Samsung,"Great performance, good camera, but the battery could be better.",4
+252,iPhone,"Amazing battery life, but the display could be brighter.",4.5
+253,iPhone,"Great phone overall, but the price is a little too high.",4.9
+254,Samsung,"I have been using this for a while, and it has not disappointed.",3.6
+255,Samsung,"Great performance, good camera, but the battery could be better.",4.1
+256,Samsung,"Amazing features, especially the camera and display.",4
+257,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.8
+258,iPhone,"Good value for money, however, the build quality is not premium.",4.7
+259,iPhone,Battery drains quickly when using apps for extended periods.,3.6
+260,Samsung,"I have been using this for a while, and it has not disappointed.",3.9
+261,OnePlus,"Affordable and reliable, but lacks some premium features.",4.9
+262,iPhone,"Amazing battery life, but the display could be brighter.",4.5
+263,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.7
+264,OnePlus,"Good phone, but it heats up when gaming for too long.",4.7
+265,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+266,Samsung,"I have been using this for a while, and it has not disappointed.",4.8
+267,Samsung,"Great performance, good camera, but the battery could be better.",3.6
+268,Samsung,Impressive camera quality and smooth user experience.,4.6
+269,OnePlus,"Sleek design, but the camera is not as good as expected.",4.6
+270,OnePlus,"Good phone, but it heats up when gaming for too long.",4.7
+271,iPhone,"Amazing battery life, but the display could be brighter.",4.4
+272,Samsung,"Amazing features, especially the camera and display.",4.6
+273,Samsung,"Great performance, good camera, but the battery could be better.",4.4
+274,iPhone,"Great phone overall, but the price is a little too high.",4.5
+275,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.1
+276,iPhone,"Decent phone, but it lags a little when switching apps.",4
+277,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.6
+278,Samsung,"Amazing features, especially the camera and display.",4.2
+279,Samsung,"I have been using this for a while, and it has not disappointed.",4.9
+280,Samsung,Impressive camera quality and smooth user experience.,4.2
+281,Samsung,"Amazing features, especially the camera and display.",4
+282,iPhone,"Amazing battery life, but the display could be brighter.",4.4
+283,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.1
+284,OnePlus,"Affordable and reliable, but lacks some premium features.",4.4
+285,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.9
+286,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.6
+287,Samsung,Impressive camera quality and smooth user experience.,4
+288,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.9
+289,iPhone,"Great phone overall, but the price is a little too high.",3.8
+290,iPhone,"Amazing battery life, but the display could be brighter.",4.8
+291,Samsung,Impressive camera quality and smooth user experience.,4.4
+292,OnePlus,"Affordable and reliable, but lacks some premium features.",3.8
+293,iPhone,Battery drains quickly when using apps for extended periods.,3.9
+294,iPhone,"Great phone overall, but the price is a little too high.",3.7
+295,iPhone,Battery drains quickly when using apps for extended periods.,4.6
+296,Samsung,"I have been using this for a while, and it has not disappointed.",4.8
+297,iPhone,"Decent phone, but it lags a little when switching apps.",4.6
+298,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.4
+299,OnePlus,"Affordable and reliable, but lacks some premium features.",3.8
+300,iPhone,"Amazing battery life, but the display could be brighter.",4
+301,Samsung,"Amazing features, especially the camera and display.",3.8
+302,OnePlus,"Affordable and reliable, but lacks some premium features.",4.8
+303,iPhone,Battery drains quickly when using apps for extended periods.,4.8
+304,Samsung,Impressive camera quality and smooth user experience.,4.6
+305,Samsung,Impressive camera quality and smooth user experience.,4.7
+306,OnePlus,"Value for money, but the software could use some improvements.",4.1
+307,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.6
+308,OnePlus,"Sleek design, but the camera is not as good as expected.",4.9
+309,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.5
+310,Samsung,"Fast charging and decent performance, I love it.",4.6
+311,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.2
+312,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.6
+313,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.5
+314,iPhone,"Amazing battery life, but the display could be brighter.",4.5
+315,Samsung,Impressive camera quality and smooth user experience.,4.5
+316,OnePlus,"Sleek design, but the camera is not as good as expected.",3.8
+317,Samsung,"Fast charging and decent performance, I love it.",4.8
+318,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.6
+319,iPhone,"Decent phone, but it lags a little when switching apps.",4.1
+320,iPhone,"Decent phone, but it lags a little when switching apps.",4.8
+321,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+322,OnePlus,"Value for money, but the software could use some improvements.",4.7
+323,iPhone,Battery drains quickly when using apps for extended periods.,3.8
+324,OnePlus,"Sleek design, but the camera is not as good as expected.",4.7
+325,OnePlus,"Affordable and reliable, but lacks some premium features.",4.6
+326,Samsung,"Great performance, good camera, but the battery could be better.",4
+327,Samsung,Impressive camera quality and smooth user experience.,4.3
+328,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+329,iPhone,"Great phone overall, but the price is a little too high.",4.5
+330,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.2
+331,iPhone,"Great phone overall, but the price is a little too high.",3.8
+332,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.7
+333,iPhone,"Decent phone, but it lags a little when switching apps.",4.3
+334,iPhone,"Amazing battery life, but the display could be brighter.",3.9
+335,OnePlus,"Value for money, but the software could use some improvements.",3.8
+336,Samsung,Impressive camera quality and smooth user experience.,4.3
+337,Samsung,Impressive camera quality and smooth user experience.,4.3
+338,Samsung,"I have been using this for a while, and it has not disappointed.",3.7
+339,OnePlus,"Good phone, but it heats up when gaming for too long.",5
+340,Samsung,"Very fast and responsive, excellent display.",4.5
+341,OnePlus,"Good phone, but it heats up when gaming for too long.",3.7
+342,iPhone,"Amazing battery life, but the display could be brighter.",3.9
+343,Samsung,"Amazing features, especially the camera and display.",4.9
+344,OnePlus,"Value for money, but the software could use some improvements.",4
+345,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.4
+346,Samsung,Impressive camera quality and smooth user experience.,4
+347,Samsung,"Very fast and responsive, excellent display.",4.4
+348,iPhone,"Amazing battery life, but the display could be brighter.",3.6
+349,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.5
+350,iPhone,"Amazing battery life, but the display could be brighter.",4.3
+351,Samsung,Impressive camera quality and smooth user experience.,3.6
+352,Samsung,"Fast charging and decent performance, I love it.",3.9
+353,OnePlus,"Affordable and reliable, but lacks some premium features.",3.9
+354,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.4
+355,iPhone,"Great phone overall, but the price is a little too high.",4.3
+356,iPhone,"Decent phone, but it lags a little when switching apps.",4.3
+357,iPhone,"Amazing battery life, but the display could be brighter.",4.2
+358,iPhone,"Great phone overall, but the price is a little too high.",3.7
+359,iPhone,"Decent phone, but it lags a little when switching apps.",4.8
+360,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.1
+361,Samsung,"Amazing features, especially the camera and display.",4.8
+362,OnePlus,"Sleek design, but the camera is not as good as expected.",4
+363,Samsung,"Great performance, good camera, but the battery could be better.",3.8
+364,OnePlus,"The phone is good for basic tasks, but not for gaming.",4.1
+365,Samsung,"Amazing features, especially the camera and display.",3.6
+366,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.3
+367,OnePlus,"Affordable and reliable, but lacks some premium features.",3.7
+368,iPhone,"Great phone overall, but the price is a little too high.",4.6
+369,OnePlus,"Affordable and reliable, but lacks some premium features.",4.3
+370,OnePlus,"Good phone, but it heats up when gaming for too long.",3.6
+371,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.9
+372,Samsung,"Very fast and responsive, excellent display.",4.8
+373,Samsung,Impressive camera quality and smooth user experience.,4.5
+374,OnePlus,"Value for money, but the software could use some improvements.",3.7
+375,Samsung,Impressive camera quality and smooth user experience.,4.5
+376,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+377,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.8
+378,iPhone,Battery drains quickly when using apps for extended periods.,4.6
+379,iPhone,"Decent phone, but it lags a little when switching apps.",4.1
+380,Samsung,"Amazing features, especially the camera and display.",3.7
+381,Samsung,"Great performance, good camera, but the battery could be better.",4.4
+382,Samsung,"Very fast and responsive, excellent display.",4.5
+383,iPhone,"Good value for money, however, the build quality is not premium.",4.6
+384,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.9
+385,Samsung,"Fast charging and decent performance, I love it.",4.8
+386,Samsung,"Amazing features, especially the camera and display.",5
+387,Samsung,"I have been using this for a while, and it has not disappointed.",4.9
+388,OnePlus,"Affordable and reliable, but lacks some premium features.",4.2
+389,OnePlus,"Affordable and reliable, but lacks some premium features.",4.5
+390,OnePlus,"Sleek design, but the camera is not as good as expected.",3.7
+391,iPhone,"Great phone overall, but the price is a little too high.",4.2
+392,Samsung,"Fast charging and decent performance, I love it.",4.7
+393,Samsung,"Great performance, good camera, but the battery could be better.",3.6
+394,OnePlus,"Sleek design, but the camera is not as good as expected.",4.4
+395,iPhone,"Good value for money, however, the build quality is not premium.",4
+396,OnePlus,"Affordable and reliable, but lacks some premium features.",5
+397,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.7
+398,Samsung,Impressive camera quality and smooth user experience.,4
+399,iPhone,"Good value for money, however, the build quality is not premium.",4.2
+400,Samsung,"Fast charging and decent performance, I love it.",3.9
+401,OnePlus,"Value for money, but the software could use some improvements.",4.2
+402,Samsung,"I have been using this for a while, and it has not disappointed.",4.3
+403,OnePlus,"Sleek design, but the camera is not as good as expected.",4.9
+404,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.6
+405,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.5
+406,OnePlus,"Affordable and reliable, but lacks some premium features.",3.5
+407,Samsung,Impressive camera quality and smooth user experience.,4.7
+408,OnePlus,"Good phone, but it heats up when gaming for too long.",3.8
+409,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.5
+410,OnePlus,"Value for money, but the software could use some improvements.",5
+411,Samsung,"Amazing features, especially the camera and display.",4.8
+412,OnePlus,"Affordable and reliable, but lacks some premium features.",4.4
+413,Samsung,"Amazing features, especially the camera and display.",3.8
+414,OnePlus,"Good phone, but it heats up when gaming for too long.",3.6
+415,iPhone,Battery drains quickly when using apps for extended periods.,4.3
+416,OnePlus,"Good phone, but it heats up when gaming for too long.",3.6
+417,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.4
+418,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.6
+419,iPhone,"Decent phone, but it lags a little when switching apps.",4.7
+420,Samsung,"I have been using this for a while, and it has not disappointed.",5
+421,OnePlus,"Sleek design, but the camera is not as good as expected.",4.4
+422,OnePlus,"Good phone, but it heats up when gaming for too long.",4.7
+423,iPhone,"Good value for money, however, the build quality is not premium.",4.8
+424,iPhone,"Camera quality is top-notch, but the storage could be higher.",4.7
+425,Samsung,"I have been using this for a while, and it has not disappointed.",4.9
+426,Samsung,"Very fast and responsive, excellent display.",4.3
+427,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.3
+428,iPhone,"Decent phone, but it lags a little when switching apps.",4.5
+429,Samsung,"Great performance, good camera, but the battery could be better.",4.3
+430,OnePlus,"Affordable and reliable, but lacks some premium features.",3.6
+431,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+432,Samsung,"Great performance, good camera, but the battery could be better.",4.3
+433,Samsung,"Very fast and responsive, excellent display.",3.9
+434,OnePlus,"Sleek design, but the camera is not as good as expected.",3.5
+435,OnePlus,"Sleek design, but the camera is not as good as expected.",4.4
+436,Samsung,"Great performance, good camera, but the battery could be better.",4.1
+437,Samsung,"Fast charging and decent performance, I love it.",4.3
+438,iPhone,"Decent phone, but it lags a little when switching apps.",3.7
+439,Samsung,"Very fast and responsive, excellent display.",4.3
+440,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+441,OnePlus,"Value for money, but the software could use some improvements.",4.6
+442,OnePlus,"Sleek design, but the camera is not as good as expected.",3.9
+443,OnePlus,"The phone is good for basic tasks, but not for gaming.",5
+444,Samsung,Impressive camera quality and smooth user experience.,4.3
+445,OnePlus,"Good phone, but it heats up when gaming for too long.",4.2
+446,Samsung,"I have been using this for a while, and it has not disappointed.",4.2
+447,Samsung,Impressive camera quality and smooth user experience.,4.3
+448,OnePlus,"Value for money, but the software could use some improvements.",3.8
+449,Samsung,"Very fast and responsive, excellent display.",4
+450,Samsung,"Amazing features, especially the camera and display.",3.9
+451,OnePlus,It's fine for everyday use but doesn't excel in any area.,4
+452,OnePlus,"Value for money, but the software could use some improvements.",4.3
+453,Samsung,"Very fast and responsive, excellent display.",3.6
+454,OnePlus,"Value for money, but the software could use some improvements.",3.8
+455,iPhone,"Camera quality is top-notch, but the storage could be higher.",4
+456,OnePlus,"Affordable and reliable, but lacks some premium features.",4.8
+457,Samsung,Impressive camera quality and smooth user experience.,3.9
+458,Samsung,"Fast charging and decent performance, I love it.",3.5
+459,iPhone,"Amazing battery life, but the display could be brighter.",3.9
+460,iPhone,"Great phone overall, but the price is a little too high.",3.5
+461,Samsung,"Amazing features, especially the camera and display.",4.8
+462,Samsung,"Very fast and responsive, excellent display.",4.7
+463,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.6
+464,iPhone,"Decent phone, but it lags a little when switching apps.",4.7
+465,iPhone,"Amazing battery life, but the display could be brighter.",4.1
+466,Samsung,"I have been using this for a while, and it has not disappointed.",4.7
+467,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.7
+468,Samsung,"I have been using this for a while, and it has not disappointed.",3.8
+469,iPhone,"Decent phone, but it lags a little when switching apps.",4.3
+470,OnePlus,"Affordable and reliable, but lacks some premium features.",4.8
+471,iPhone,"Camera quality is top-notch, but the storage could be higher.",3.7
+472,OnePlus,"Sleek design, but the camera is not as good as expected.",5
+473,Samsung,"Great performance, good camera, but the battery could be better.",4
+474,OnePlus,"The phone is good for basic tasks, but not for gaming.",3.9
+475,iPhone,"Camera quality is top-notch, but the storage could be higher.",4
+476,OnePlus,"Sleek design, but the camera is not as good as expected.",4.4
+477,iPhone,"Good value for money, however, the build quality is not premium.",3.5
+478,Samsung,"Very fast and responsive, excellent display.",3.9
+479,OnePlus,"Sleek design, but the camera is not as good as expected.",3.5
+480,Samsung,"Fast charging and decent performance, I love it.",3.9
+481,OnePlus,"Value for money, but the software could use some improvements.",3.5
+482,OnePlus,"Value for money, but the software could use some improvements.",4.4
+483,Samsung,"Great performance, good camera, but the battery could be better.",3.8
+484,iPhone,Battery drains quickly when using apps for extended periods.,4.5
+485,Samsung,Impressive camera quality and smooth user experience.,3.9
+486,Samsung,"Great performance, good camera, but the battery could be better.",4.2
+487,OnePlus,"Sleek design, but the camera is not as good as expected.",4.2
+488,Samsung,"Great performance, good camera, but the battery could be better.",3.8
+489,Samsung,Impressive camera quality and smooth user experience.,3.8
+490,iPhone,"Decent phone, but it lags a little when switching apps.",4.6
+491,iPhone,"Amazing battery life, but the display could be brighter.",3.8
+492,Samsung,Impressive camera quality and smooth user experience.,3.8
+493,OnePlus,"Sleek design, but the camera is not as good as expected.",4.9
+494,OnePlus,It's fine for everyday use but doesn't excel in any area.,4.8
+495,OnePlus,It's fine for everyday use but doesn't excel in any area.,3.7
+496,OnePlus,"Sleek design, but the camera is not as good as expected.",4.4
+497,iPhone,"Good value for money, however, the build quality is not premium.",3.9
+498,OnePlus,"Sleek design, but the camera is not as good as expected.",4.3
+499,iPhone,"Decent phone, but it lags a little when switching apps.",4.9
+500,Samsung,"Amazing features, especially the camera and display.",3.8
